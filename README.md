@@ -11,5 +11,6 @@ BotAimImprover is a plugin for CS2 (Counter Strike 2) built on [CounterStrikeSha
 ## Commands
 ***mp_damage_headshot_only 1***  
 Enable bots to aim for head.  
+  
 ***mp_damage_headshot_only 0***  
 Bots would aim for stomach.
